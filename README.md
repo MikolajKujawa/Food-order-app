@@ -11,7 +11,7 @@ This project is a website for ordering food from a restaurant.
 It allows you to add a given dish to the order, add and remove given dishes, and also calculate the total cost of the order.
 There are also simple animations on the website.
 
-<p align="center"><img src="https://github.com/MikolajKujawa/Food-order-app/tree/main/src/assets/food-order-app_screen.png" alt="Food-order-app_screen" width="600px"/></p>
+<p align="center"><img src="https://github.com/MikolajKujawa/Food-order-app/blob/main/src/assets/food-order-app_screen.png" alt="Food-order-app_screen" width="600px"/></p>
 
 ## Features
 * React Context

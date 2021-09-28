@@ -9,7 +9,8 @@
 ## General info
 This project is a website for ordering food from a restaurant.
 It allows you to add a given dish to the order, add and remove given dishes, and also calculate the total cost of the order.
-There are also simple animations on the website.
+There are also simple animations on the website. 
+Downloading data and saving orders is done by communicating with the Firebase database.
 
 <p align="center"><img src="https://github.com/MikolajKujawa/Food-order-app/blob/main/src/assets/food-order-app_screen.png" alt="Food-order-app_screen" width="600px"/></p>
 
@@ -17,6 +18,8 @@ There are also simple animations on the website.
 * React Context
 * Automatic order counting
 * Simple animations
+* Simple backend
+* Communicate with Firebase
 
 ## Technologies
 * React: <i>17.0.1</i>
@@ -25,4 +28,4 @@ There are also simple animations on the website.
 
 ## Other informations
 This web was created by **Mikołaj Kujawa** <br/>
-**Online:** https://frosty-lewin-85989b.netlify.app
+**Online:** https://frosty-lewin-85989b.netlify.app 
